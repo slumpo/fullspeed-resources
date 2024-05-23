@@ -14,4 +14,4 @@ Unwrapping the wall ride we can see the shortest path through a wall is staying 
 
 In modern fullspeed maps, you will often come across wallride helpers in the corner between the quarter pipe and wall block. These make hitting the correct apex much easier. However, on certain occasions the helper is unnecessary, as it is possible that using it will force you higher on the wall than necessary. That said, when you come across a helper it is best practice to use it as it will help you stay nice and low on the wall.
 
-If you’re up for the task of bruteforce learning how to drive wall rides correctly, I recommend the map [Kindheitstrauma 2020](https://trackmania.exchange/s/tr/25) This map is 45 seconds of almost exclusively wall rides, GLHF.
+If you’re up for the task of bruteforce learning how to drive wall rides correctly, I recommend the map [Kindheitstrauma 2020](https://trackmania.exchange/s/tr/25) This map is 45 seconds of almost exclusively wallrides, GLHF.
